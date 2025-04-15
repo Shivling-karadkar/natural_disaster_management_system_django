@@ -1,0 +1,1 @@
+# natural_disaster_management_system_django
